@@ -1,6 +1,6 @@
 {
 	"modules":
 	{
-		"registration":	{"table_id":"91000064","url":"modules/edc/task/registration.html","name_for_search":"Registration Records"}
+		"registration":	{"table_id":"91000083","url":"edc/modules/registration.html","name_for_search":"Registration Records"}
 	}
 }
