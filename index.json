@@ -1,9 +1,9 @@
 {
-	"api_path_development":"https://rt.woolcock.org.au/dev/",
-	"api_path_production":"https://rt.woolcock.org.au/pro/",
+	"api_path_development":"https://cbs.wappsystem.com/dev/",
+	"api_path_production":"https://rt.woolcock.org.au/",
 	"default_production":"Yes",
-    "panels":{
-		"website":		{"url":"","modules":["website/index.json"]},
-		"panel-main":	{"url":"panel/main.html","modules":["edc/index.json"]}
+	"panels":{
+		"home":	        {"url":"panels/home.html",	"modules":[]},
+		"pages":	    {"url":"",					"modules":["pages|index.json"]}
 	}
 }
